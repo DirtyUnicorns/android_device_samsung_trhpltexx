@@ -5,14 +5,14 @@ $(call inherit-product, device/samsung/trelte-common/device-common.mk)
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common DU stuff.
+$(call inherit-product, vendor/du/config/common_full_phone.mk)
 
 # Inherit nfc enhanced configuration
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/du/config/nfc_enhanced.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_trhpltexx
+PRODUCT_NAME := du_trhpltexx
 PRODUCT_DEVICE := trhpltexx
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-N910U

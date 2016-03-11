@@ -1,0 +1,57 @@
+[
+    {
+        "repository": "DirtyUnicorns/android_device_samsung_trelte-common",
+        "target_path": "device/samsung/trelte-common",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_external_curl",
+        "target_path": "external/curl",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_external_stlport",
+        "target_path": "external/stlport",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_hardware_samsung_slsi-cm_exynos",
+        "target_path": "hardware/samsung_slsi-cm/exynos",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_hardware_samsung_slsi-cm_exynos5",
+        "target_path": "hardware/samsung_slsi-cm/exynos5",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_hardware_samsung_slsi-cm_exynos5433",
+        "target_path": "hardware/samsung_slsi-cm/exynos5433",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_hardware_samsung_slsi-cm_openmax",
+        "target_path": "hardware/samsung_slsi-cm/openmax",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_kernel_samsung_trelte",
+        "target_path": "kernel/samsung/trelte",
+        "branch": "m-caf"
+    },
+    {
+        "repository": "DirtyUnicorns/android_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "m-caf"
+    }
+]
